@@ -4,9 +4,15 @@ body {
   box-sizing: border-box;
   height: 100vh;
   background-color: rgb(20, 20, 20);
+  
+}
+
+main{
+    height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 .profile-container {
   background-color: rgb(31, 31, 31);
@@ -56,9 +62,9 @@ body {
 }
 
 .attribution { 
-    font-size: 11px; 
+    font-size: 13px; 
     text-align: center;
     color: white;
-    display: block;
+    
  }
 .attribution a { color: hsl(228, 45%, 44%); }
